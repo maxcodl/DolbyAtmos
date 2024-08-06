@@ -15,3 +15,8 @@ This app allows you to quickly launch Dolby Atmos settings on OnePlus devices. I
 
 ## Note
 i used the package name `com.dolby.daxappui` so that it will work with with popular icon packs :v
+
+
+####  view counter 
+
+![](https://komarev.com/ghpvc/?username=maxcodlDolby)
